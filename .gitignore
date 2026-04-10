@@ -1,17 +1,4 @@
-# STM32 / GNU Make
-stm32/els_f407_black/**
-*.o
-*.elf
-*.bin
-*.map
-*.lst
-*.su
 
-# IDE
-.vscode/
-*.swp
-*~
-
-# OS
-.DS_Store
-Thumbs.db
+stm32/els_f407_black/Core/Inc/app_config.h
+stm32/els_f407_black/Core/Inc/app_config.h
+stm32/els_f407_black/Core/Inc/app_config.h
