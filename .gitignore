@@ -1,5 +1,5 @@
 # STM32 / GNU Make
-stm32/els_f407_black/build/
+stm32/els_f407_black/**
 *.o
 *.elf
 *.bin
