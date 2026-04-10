@@ -1,0 +1,17 @@
+# STM32 / GNU Make
+stm32/els_f407_black/build/
+*.o
+*.elf
+*.bin
+*.map
+*.lst
+*.su
+
+# IDE
+.vscode/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
